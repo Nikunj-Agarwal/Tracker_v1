@@ -1,0 +1,11 @@
+[0.923s] Invoking command in '/home/nikunj/tracking_proj_ws/src/servo_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/servo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/servo_controller build --build-base /home/nikunj/tracking_proj_ws/build/servo_controller/build install --record /home/nikunj/tracking_proj_ws/build/servo_controller/install.log --single-version-externally-managed install_data
+[1.043s] running egg_info
+[1.043s] creating ../../build/servo_controller/servo_controller.egg-info
+[1.051s] writing ../../build/servo_controller/servo_controller.egg-info/PKG-INFO
+[1.051s] writing dependency_links to ../../build/servo_controller/servo_controller.egg-info/dependency_links.txt
+[1.051s] writing entry points to ../../build/servo_controller/servo_controller.egg-info/entry_points.txt
+[1.051s] writing requirements to ../../build/servo_controller/servo_controller.egg-info/requires.txt
+[1.051s] writing top-level names to ../../build/servo_controller/servo_controller.egg-info/top_level.txt
+[1.051s] writing manifest file '../../build/servo_controller/servo_controller.egg-info/SOURCES.txt'
+[1.060s] error: package directory 'servo_controller' does not exist
+[1.070s] Invoked command in '/home/nikunj/tracking_proj_ws/src/servo_control' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/servo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/servo_controller build --build-base /home/nikunj/tracking_proj_ws/build/servo_controller/build install --record /home/nikunj/tracking_proj_ws/build/servo_controller/install.log --single-version-externally-managed install_data

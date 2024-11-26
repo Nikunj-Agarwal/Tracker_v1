@@ -1,0 +1,2 @@
+[console_scripts]
+look_at_point = object_tracking.look_at_point:main

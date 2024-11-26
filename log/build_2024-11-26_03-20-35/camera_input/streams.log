@@ -1,0 +1,22 @@
+[0.975s] Invoking command in '/home/nikunj/tracking_proj_ws/src/camera_input': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/camera_input/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_input build --build-base /home/nikunj/tracking_proj_ws/build/camera_input/build install --record /home/nikunj/tracking_proj_ws/build/camera_input/install.log --single-version-externally-managed install_data
+[1.100s] running egg_info
+[1.108s] writing ../../build/camera_input/camera_input.egg-info/PKG-INFO
+[1.109s] writing dependency_links to ../../build/camera_input/camera_input.egg-info/dependency_links.txt
+[1.109s] writing entry points to ../../build/camera_input/camera_input.egg-info/entry_points.txt
+[1.109s] writing requirements to ../../build/camera_input/camera_input.egg-info/requires.txt
+[1.109s] writing top-level names to ../../build/camera_input/camera_input.egg-info/top_level.txt
+[1.127s] reading manifest file '../../build/camera_input/camera_input.egg-info/SOURCES.txt'
+[1.127s] writing manifest file '../../build/camera_input/camera_input.egg-info/SOURCES.txt'
+[1.127s] running build
+[1.127s] running build_py
+[1.127s] running install
+[1.129s] running install_lib
+[1.138s] running install_data
+[1.138s] running install_egg_info
+[1.147s] removing '/home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input-0.0.0-py3.12.egg-info' (and everything under it)
+[1.147s] Copying ../../build/camera_input/camera_input.egg-info to /home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input-0.0.0-py3.12.egg-info
+[1.147s] running install_scripts
+[1.208s] Installing ball_detector script to /home/nikunj/tracking_proj_ws/install/camera_input/lib/camera_input
+[1.208s] Installing camera_node script to /home/nikunj/tracking_proj_ws/install/camera_input/lib/camera_input
+[1.208s] writing list of installed files to '/home/nikunj/tracking_proj_ws/build/camera_input/install.log'
+[1.227s] Invoked command in '/home/nikunj/tracking_proj_ws/src/camera_input' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/camera_input/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_input build --build-base /home/nikunj/tracking_proj_ws/build/camera_input/build install --record /home/nikunj/tracking_proj_ws/build/camera_input/install.log --single-version-externally-managed install_data

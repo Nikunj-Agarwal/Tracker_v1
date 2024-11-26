@@ -1,0 +1,4 @@
+[console_scripts]
+angle_command_node = servo_control.angle_command_node:main
+position_monitor_node = servo_control.position_monitor_node:main
+servo_controller = servo_control.servo_controller:main

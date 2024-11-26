@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/camera_input/camera_input.egg-info
+writing ../../build/camera_input/camera_input.egg-info/PKG-INFO
+writing dependency_links to ../../build/camera_input/camera_input.egg-info/dependency_links.txt
+writing requirements to ../../build/camera_input/camera_input.egg-info/requires.txt
+writing top-level names to ../../build/camera_input/camera_input.egg-info/top_level.txt
+writing manifest file '../../build/camera_input/camera_input.egg-info/SOURCES.txt'
+reading manifest file '../../build/camera_input/camera_input.egg-info/SOURCES.txt'
+writing manifest file '../../build/camera_input/camera_input.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nikunj/tracking_proj_ws/build/camera_input/build
+creating /home/nikunj/tracking_proj_ws/build/camera_input/build/lib
+creating /home/nikunj/tracking_proj_ws/build/camera_input/build/lib/camera_input
+copying camera_input/__init__.py -> /home/nikunj/tracking_proj_ws/build/camera_input/build/lib/camera_input
+running install
+running install_lib
+creating /home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input
+copying /home/nikunj/tracking_proj_ws/build/camera_input/build/lib/camera_input/__init__.py -> /home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input
+byte-compiling /home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/nikunj/tracking_proj_ws/install/camera_input/share/ament_index
+creating /home/nikunj/tracking_proj_ws/install/camera_input/share/ament_index/resource_index
+creating /home/nikunj/tracking_proj_ws/install/camera_input/share/ament_index/resource_index/packages
+copying resource/camera_input -> /home/nikunj/tracking_proj_ws/install/camera_input/share/ament_index/resource_index/packages
+copying package.xml -> /home/nikunj/tracking_proj_ws/install/camera_input/share/camera_input
+running install_egg_info
+Copying ../../build/camera_input/camera_input.egg-info to /home/nikunj/tracking_proj_ws/install/camera_input/lib/python3.12/site-packages/camera_input-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/nikunj/tracking_proj_ws/build/camera_input/install.log'

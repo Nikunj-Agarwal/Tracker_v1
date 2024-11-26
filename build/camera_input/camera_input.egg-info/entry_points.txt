@@ -1,0 +1,3 @@
+[console_scripts]
+ball_detector = camera_input.ball_detection:main
+camera_node = camera_input.camera:main

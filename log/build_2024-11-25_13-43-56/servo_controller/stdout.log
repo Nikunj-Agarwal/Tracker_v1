@@ -1,0 +1,42 @@
+running egg_info
+creating ../../build/servo_controller/servo_control.egg-info
+writing ../../build/servo_controller/servo_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/servo_controller/servo_control.egg-info/dependency_links.txt
+writing entry points to ../../build/servo_controller/servo_control.egg-info/entry_points.txt
+writing requirements to ../../build/servo_controller/servo_control.egg-info/requires.txt
+writing top-level names to ../../build/servo_controller/servo_control.egg-info/top_level.txt
+writing manifest file '../../build/servo_controller/servo_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/servo_controller/servo_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/servo_controller/servo_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nikunj/tracking_proj_ws/build/servo_controller/build
+creating /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib
+creating /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control
+copying servo_control/servo_controller.py -> /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control
+copying servo_control/__init__.py -> /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control
+copying servo_control/position_monitor.py -> /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control
+copying servo_control/angle_command.py -> /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control
+running install
+running install_lib
+creating /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control
+copying /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control/servo_controller.py -> /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control
+copying /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control/__init__.py -> /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control
+copying /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control/position_monitor.py -> /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control
+copying /home/nikunj/tracking_proj_ws/build/servo_controller/build/lib/servo_control/angle_command.py -> /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control
+byte-compiling /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control/servo_controller.py to servo_controller.cpython-312.pyc
+byte-compiling /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control/position_monitor.py to position_monitor.cpython-312.pyc
+byte-compiling /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control/angle_command.py to angle_command.cpython-312.pyc
+running install_data
+copying resource/servo_control -> /home/nikunj/tracking_proj_ws/install/servo_controller/share/ament_index/resource_index/packages
+creating /home/nikunj/tracking_proj_ws/install/servo_controller/share/servo_control
+copying package.xml -> /home/nikunj/tracking_proj_ws/install/servo_controller/share/servo_control
+creating /home/nikunj/tracking_proj_ws/install/servo_controller/share/servo_control/launch
+running install_egg_info
+Copying ../../build/servo_controller/servo_control.egg-info to /home/nikunj/tracking_proj_ws/install/servo_controller/lib/python3.12/site-packages/servo_control-0.0.1-py3.12.egg-info
+running install_scripts
+Installing angle_command_node script to /home/nikunj/tracking_proj_ws/install/servo_controller/lib/servo_control
+Installing position_monitor_node script to /home/nikunj/tracking_proj_ws/install/servo_controller/lib/servo_control
+Installing servo_controller script to /home/nikunj/tracking_proj_ws/install/servo_controller/lib/servo_control
+writing list of installed files to '/home/nikunj/tracking_proj_ws/build/servo_controller/install.log'

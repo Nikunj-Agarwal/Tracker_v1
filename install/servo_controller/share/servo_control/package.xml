@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>servo_controller</name>
+  <version>0.0.1</version>
+  <description>Servo controller package for ROS 2</description>
+
+  <maintainer email="your.email@example.com">YourName</maintainer>
+  <license>Your License</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ros2_pkg</buildtool_depend>
+  
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <build_depend>launch</build_depend>
+  <exec_depend>launch</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

@@ -1,0 +1,21 @@
+[1.449s] Invoking command in '/home/nikunj/tracking_proj_ws/src/object_tracking': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/nikunj/tracking_proj_ws/build/object_tracking/build install --record /home/nikunj/tracking_proj_ws/build/object_tracking/install.log --single-version-externally-managed install_data
+[1.736s] running egg_info
+[1.756s] writing ../../build/object_tracking/object_tracking.egg-info/PKG-INFO
+[1.756s] writing dependency_links to ../../build/object_tracking/object_tracking.egg-info/dependency_links.txt
+[1.757s] writing entry points to ../../build/object_tracking/object_tracking.egg-info/entry_points.txt
+[1.757s] writing requirements to ../../build/object_tracking/object_tracking.egg-info/requires.txt
+[1.757s] writing top-level names to ../../build/object_tracking/object_tracking.egg-info/top_level.txt
+[1.796s] reading manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[1.797s] writing manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[1.798s] running build
+[1.798s] running build_py
+[1.798s] running install
+[1.804s] running install_lib
+[1.824s] running install_data
+[1.825s] running install_egg_info
+[1.846s] removing '/home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking-0.0.0-py3.12.egg-info' (and everything under it)
+[1.846s] Copying ../../build/object_tracking/object_tracking.egg-info to /home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking-0.0.0-py3.12.egg-info
+[1.846s] running install_scripts
+[1.986s] Installing look_at_point script to /home/nikunj/tracking_proj_ws/install/object_tracking/lib/object_tracking
+[1.986s] writing list of installed files to '/home/nikunj/tracking_proj_ws/build/object_tracking/install.log'
+[2.021s] Invoked command in '/home/nikunj/tracking_proj_ws/src/object_tracking' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/nikunj/tracking_proj_ws/build/object_tracking/build install --record /home/nikunj/tracking_proj_ws/build/object_tracking/install.log --single-version-externally-managed install_data

@@ -1,0 +1,32 @@
+[0.812s] Invoking command in '/home/nikunj/tracking_proj_ws/src/servo_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/servo_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/servo_control build --build-base /home/nikunj/tracking_proj_ws/build/servo_control/build install --record /home/nikunj/tracking_proj_ws/build/servo_control/install.log --single-version-externally-managed install_data
+[0.941s] running egg_info
+[0.941s] creating ../../build/servo_control/servo_control.egg-info
+[0.948s] writing ../../build/servo_control/servo_control.egg-info/PKG-INFO
+[0.949s] writing dependency_links to ../../build/servo_control/servo_control.egg-info/dependency_links.txt
+[0.949s] writing requirements to ../../build/servo_control/servo_control.egg-info/requires.txt
+[0.949s] writing top-level names to ../../build/servo_control/servo_control.egg-info/top_level.txt
+[0.949s] writing manifest file '../../build/servo_control/servo_control.egg-info/SOURCES.txt'
+[0.965s] reading manifest file '../../build/servo_control/servo_control.egg-info/SOURCES.txt'
+[0.966s] writing manifest file '../../build/servo_control/servo_control.egg-info/SOURCES.txt'
+[0.966s] running build
+[0.966s] running build_py
+[0.966s] creating /home/nikunj/tracking_proj_ws/build/servo_control/build
+[0.966s] creating /home/nikunj/tracking_proj_ws/build/servo_control/build/lib
+[0.966s] creating /home/nikunj/tracking_proj_ws/build/servo_control/build/lib/servo_control
+[0.966s] copying servo_control/__init__.py -> /home/nikunj/tracking_proj_ws/build/servo_control/build/lib/servo_control
+[0.966s] running install
+[0.969s] running install_lib
+[0.978s] creating /home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages/servo_control
+[0.978s] copying /home/nikunj/tracking_proj_ws/build/servo_control/build/lib/servo_control/__init__.py -> /home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages/servo_control
+[0.978s] byte-compiling /home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages/servo_control/__init__.py to __init__.cpython-312.pyc
+[0.978s] running install_data
+[0.978s] creating /home/nikunj/tracking_proj_ws/install/servo_control/share/ament_index
+[0.978s] creating /home/nikunj/tracking_proj_ws/install/servo_control/share/ament_index/resource_index
+[0.978s] creating /home/nikunj/tracking_proj_ws/install/servo_control/share/ament_index/resource_index/packages
+[0.978s] copying resource/servo_control -> /home/nikunj/tracking_proj_ws/install/servo_control/share/ament_index/resource_index/packages
+[0.978s] copying package.xml -> /home/nikunj/tracking_proj_ws/install/servo_control/share/servo_control
+[0.978s] running install_egg_info
+[0.986s] Copying ../../build/servo_control/servo_control.egg-info to /home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages/servo_control-0.0.0-py3.12.egg-info
+[0.987s] running install_scripts
+[1.045s] writing list of installed files to '/home/nikunj/tracking_proj_ws/build/servo_control/install.log'
+[1.065s] Invoked command in '/home/nikunj/tracking_proj_ws/src/servo_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/servo_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/servo_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/servo_control build --build-base /home/nikunj/tracking_proj_ws/build/servo_control/build install --record /home/nikunj/tracking_proj_ws/build/servo_control/install.log --single-version-externally-managed install_data

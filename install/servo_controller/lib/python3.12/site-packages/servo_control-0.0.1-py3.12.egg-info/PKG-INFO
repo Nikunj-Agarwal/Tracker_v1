@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: servo-control
+Version: 0.0.1
+Summary: Servo controller package for ROS 2
+Maintainer: YourName
+Maintainer-email: your.email@example.com
+License: Your License

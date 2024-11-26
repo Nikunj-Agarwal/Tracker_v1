@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>servo_control</name>
+  <version>0.0.1</version>
+  <description>The servo_control package</description>
+
+  <maintainer email="your_email@domain.com">Your Name</maintainer>
+  <license>BSD-3-Clause</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+
+  <exec_depend>python3-serial</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

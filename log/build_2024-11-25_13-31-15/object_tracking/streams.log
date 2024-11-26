@@ -1,0 +1,32 @@
+[0.816s] Invoking command in '/home/nikunj/tracking_proj_ws/src/object_tracking': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/nikunj/tracking_proj_ws/build/object_tracking/build install --record /home/nikunj/tracking_proj_ws/build/object_tracking/install.log --single-version-externally-managed install_data
+[0.942s] running egg_info
+[0.942s] creating ../../build/object_tracking/object_tracking.egg-info
+[0.950s] writing ../../build/object_tracking/object_tracking.egg-info/PKG-INFO
+[0.950s] writing dependency_links to ../../build/object_tracking/object_tracking.egg-info/dependency_links.txt
+[0.950s] writing requirements to ../../build/object_tracking/object_tracking.egg-info/requires.txt
+[0.950s] writing top-level names to ../../build/object_tracking/object_tracking.egg-info/top_level.txt
+[0.950s] writing manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[0.967s] reading manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[0.967s] writing manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[0.967s] running build
+[0.967s] running build_py
+[0.967s] creating /home/nikunj/tracking_proj_ws/build/object_tracking/build
+[0.967s] creating /home/nikunj/tracking_proj_ws/build/object_tracking/build/lib
+[0.967s] creating /home/nikunj/tracking_proj_ws/build/object_tracking/build/lib/object_tracking
+[0.967s] copying object_tracking/__init__.py -> /home/nikunj/tracking_proj_ws/build/object_tracking/build/lib/object_tracking
+[0.967s] running install
+[0.970s] running install_lib
+[0.979s] creating /home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking
+[0.979s] copying /home/nikunj/tracking_proj_ws/build/object_tracking/build/lib/object_tracking/__init__.py -> /home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking
+[0.979s] byte-compiling /home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking/__init__.py to __init__.cpython-312.pyc
+[0.979s] running install_data
+[0.979s] creating /home/nikunj/tracking_proj_ws/install/object_tracking/share/ament_index
+[0.979s] creating /home/nikunj/tracking_proj_ws/install/object_tracking/share/ament_index/resource_index
+[0.979s] creating /home/nikunj/tracking_proj_ws/install/object_tracking/share/ament_index/resource_index/packages
+[0.979s] copying resource/object_tracking -> /home/nikunj/tracking_proj_ws/install/object_tracking/share/ament_index/resource_index/packages
+[0.979s] copying package.xml -> /home/nikunj/tracking_proj_ws/install/object_tracking/share/object_tracking
+[0.979s] running install_egg_info
+[0.988s] Copying ../../build/object_tracking/object_tracking.egg-info to /home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages/object_tracking-0.0.0-py3.12.egg-info
+[0.988s] running install_scripts
+[1.047s] writing list of installed files to '/home/nikunj/tracking_proj_ws/build/object_tracking/install.log'
+[1.065s] Invoked command in '/home/nikunj/tracking_proj_ws/src/object_tracking' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nikunj/tracking_proj_ws/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nikunj/tracking_proj_ws/install/object_tracking/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/nikunj/tracking_proj_ws/build/object_tracking/build install --record /home/nikunj/tracking_proj_ws/build/object_tracking/install.log --single-version-externally-managed install_data
